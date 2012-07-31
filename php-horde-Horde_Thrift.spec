@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Thrift
 Name:		php-horde-Horde_Thrift
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	Apache v2.0
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	8bcdebde22ca6e7f0a5f36cd496cc241
+# Source0-md5:	487452daeb7513e7606984b873eb6de9
 URL:		https://github.com/horde/horde/tree/master/framework/Thrift/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
