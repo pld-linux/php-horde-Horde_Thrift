@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Thrift
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Thrift
 Name:		php-horde-Horde_Thrift
 Version:	1.0.1
